@@ -8,4 +8,3 @@ venv/
 .aws-sam/
 .idea/
 .DS_Store
-EOF
