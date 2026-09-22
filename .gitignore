@@ -1,0 +1,11 @@
+.env
+*.pem
+samconfig.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.aws-sam/
+.idea/
+.DS_Store
+EOF
